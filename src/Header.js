@@ -19,7 +19,7 @@ function Header() {
     const signOut = () =>{
 
         auth.signOut().then(() => {
-            dispatch(logout)
+            dispatch(logout())
         })
        
     }
