@@ -1,4 +1,4 @@
-# Slack App Clone Project
+# Gmail App Clone Project
 # Website: https://clone-zach.firebaseapp.com/
 
 
